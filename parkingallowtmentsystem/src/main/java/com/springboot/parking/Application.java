@@ -1,13 +1,13 @@
-package com.pas.parkingallowtmentsystem;
+package com.springboot.parking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ParkingallowtmentsystemApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ParkingallowtmentsystemApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
